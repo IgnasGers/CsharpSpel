@@ -1,13 +1,14 @@
-CsharpSpel
+CsharpGame
 ==========
 
-Een spel ontworpen met Csharp
+A game designed with C#
 
-Dag iedereen, ik ga vandaag beginnen met mijn 1ste project op GitHub.
+Hello everybody, today i'm gonna start with my first GitHub project.
 
-Ik ga gewoon simpel beginnen door een spel te maken op VisualStudio 2013 For Desktop.
+I'm going to start just easy by making a game with C# with VisualStudio 2013 For Desktop.
 
-    Dit stukje code laat zien dat er een random getal wordt afgebeeld telkens als je op de button klikt.
+This piece of code shows a random number in a label by clicking on a button
+
  public partial class Form1 : Form
     {
         private Random rndGen = new Random();
