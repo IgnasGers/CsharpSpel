@@ -15,7 +15,7 @@ This piece of code shows a random number in a label by clicking on a button
         
         private void WelkomTekst()
         {
-            if (MessageBox.Show("Hey, klaar om 21 te spelen ?", "Welkom!", MessageBoxButtons.OKCancel) == DialogResult.Yes) ;
+            if (MessageBox.Show("Hey, ready to play 21? ", "Welcome!", MessageBoxButtons.OKCancel) == DialogResult.Yes) ;
         }
 
         public Form1()
